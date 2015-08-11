@@ -1,0 +1,1 @@
+A small script that, given a text file with a list of server names and aliases in the format server_alias (server_name), will separate them and then fill in an appropriate domain name.
